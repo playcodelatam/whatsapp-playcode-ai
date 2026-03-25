@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Web Bridge",
+  "description": "A web interface for the whatsapp-web.js library, allowing you to connect and interact with WhatsApp via a QR code.",
+  "requestFramePermissions": []
+}
